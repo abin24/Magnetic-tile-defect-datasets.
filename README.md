@@ -1,4 +1,4 @@
-This is the datasets of the upcoming paper "Saliency of magnetic tile surface defects" 
+This is the datasets of the paper "Saliency of magnetic tile surface defects" 
 The images of 6 common magnetic tile defects were collected, and their pixel level ground-truth were labeled.
 
 <center> 
